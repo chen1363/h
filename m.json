@@ -3,7 +3,7 @@
 "wallpaper": 
   "https://d.kstore.space/download/6292/tu/7.jpg",
         "lives": [
-{ "name":"fanmingming","type":0,"url":"./n.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+{ "name":"lives","url":"https://d.kstore.space/download/6292/h/n.txt","boot":false,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}" ,"logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
   "sites": [
      {
