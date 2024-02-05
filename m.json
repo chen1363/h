@@ -23,13 +23,15 @@
       "changeable": 1,
       "ext": "./js/douban.json"
     },
-        {
-      "key": "酷狗",
-      "name": "酷狗",
+            {
+      "key": "yinyue",
+      "name": "🎤┃酷狗┃音乐",
       "type": 3,
-      "api": "csp_Kugou",
-      "searchable": 0,
-      "changeable": 0
+      "api": "csp_Music",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "./js/music.json",
+      "jar": "./js/YSZYZ.jar"
     },
       {
       "key": "JustLive",
