@@ -44,7 +44,7 @@
 
       {"key":"csp_XYQBiu_斗鱼","name":"斗鱼┃直播","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0},
       {"key":"drpy_js_小纸条","name":"小纸条[js]","type":3,"api":"./js/小纸条.js",
-        "ext": "c5a0b7339c4f4eb0a038abb277036c07"
+        "ext": "604c1db06ebe4a508aa616cf0912efd5"
                     },
       {"key":"点播","name":"电视 | 直播[js]","type":3,"api":"./js/live2vod.js","ext":"./js/feimaolive.json"},
       {"key":"wogg_open","name":"玩偶[cat]","type":3,"api":"./js/wogg_open.js",
@@ -119,18 +119,18 @@
 {"key":"巴士","name":"巴士[fm]","type":3,"api":"csp_Dm84"},
    {
   "key": "小纸条",
- "name": "🔍小纸条","type": 3,"api": "./js/xiaozhitiao_open.js",    "ext": "c5a0b7339c4f4eb0a038abb277036c07"  },
+ "name": "🔍小纸条","type": 3,"api": "./js/xiaozhitiao_open.js",    "ext": "604c1db06ebe4a508aa616cf0912efd5"  },
 {
   "key": "阿里盘寻",
     "name": "🔍 盘寻",
   "type": 3,
    "api": "./js/pansearch_open.js",
- "ext": "c5a0b7339c4f4eb0a038abb277036c07"},
+ "ext": "604c1db06ebe4a508aa616cf0912efd5"},
     {"key": "阿里盘搜","name": "🔍 盘搜","type": 3,
-"api": "./js/pansou_open.js","ext": "c5a0b7339c4f4eb0a038abb277036c07"
+"api": "./js/pansou_open.js","ext": "604c1db06ebe4a508aa616cf0912efd5"
    },
      {
- "key": "阿里七夜","name": "🔍 七夜","type": 3,"api": "./js/dovx_open.js","ext": "c5a0b7339c4f4eb0a038abb277036c07"
+ "key": "阿里七夜","name": "🔍 七夜","type": 3,"api": "./js/dovx_open.js","ext": "604c1db06ebe4a508aa616cf0912efd5"
    }],
 
 "parses": [
