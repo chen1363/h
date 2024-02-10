@@ -73,7 +73,7 @@
       "api": "csp_qiao2",
       "playerType": 2,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1",
-       "jar": "./fix24117.jar"
+       "jar": "./js/fix24117.jar"
     },
     {
       "key": "巧技二",
@@ -91,7 +91,7 @@
       "api": "csp_qiao2",
       "playerType": 2,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3",
-      "jar": "./fix24117.jar"
+      "jar": "./js/fix24117.jar"
     },
     {
       "key": "巧技四",
@@ -100,7 +100,7 @@
       "api": "csp_qiao2",
       "playerType": 2,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4",
-      "jar": "./fix24117.jar"
+      "jar": "./js/fix24117.jar"
     },
     {
       "key": "巧技五",
@@ -112,7 +112,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5",
-      "jar": "./fix24117.jar"
+      "jar": "./js/fix24117.jar"
     },
 {"key":"猫农民","name":"农民[cat]","type":3,"api":"./js/猫农民.js"},
 {"key":"猫在线之家","name":"在线之家[cat]","type":3,"api":"./js/猫在线之家.js"},
