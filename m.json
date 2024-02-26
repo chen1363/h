@@ -67,53 +67,7 @@
                 }
             },
      {
-      "key": "巧技一",
-      "name": "巧技一┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1",
-       "jar": "./js/fix.jar"
-    },
-    {
-      "key": "巧技二",
-      "name": "巧技二┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2",
-      "jar": "./js/fix.jar"
-    },
-    {
-      "key": "巧技三",
-      "name": "巧技三┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3",
-      "jar": "./js/fix.jar"
-    },
-    {
-      "key": "巧技四",
-      "name": "巧技四┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4",
-      "jar": "./js/fix.jar"
-    },
-    {
-      "key": "巧技五",
-      "name": "巧技五┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5",
-      "jar": "./js/fix.jar"
-    },
+      "key": 
 {"key":"猫农民","name":"农民[cat]","type":3,"api":"./js/猫农民.js"},
 {"key":"猫在线之家","name":"在线之家[cat]","type":3,"api":"./js/猫在线之家.js"},
 {"key":"猫南瓜","name":"南瓜[cat]","type":3,"api":"./js/猫南瓜.js"},
