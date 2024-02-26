@@ -66,8 +66,6 @@
                     "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
                 }
             },
-     {
-      "key": 
 {"key":"猫农民","name":"农民[cat]","type":3,"api":"./js/猫农民.js"},
 {"key":"猫在线之家","name":"在线之家[cat]","type":3,"api":"./js/猫在线之家.js"},
 {"key":"猫南瓜","name":"南瓜[cat]","type":3,"api":"./js/猫南瓜.js"},
