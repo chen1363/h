@@ -66,7 +66,6 @@
                     "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
                 }
             },
-{"key":"猫农民","name":"农民[cat]","type":3,"api":"./js/猫农民.js"},
 {"key":"猫在线之家","name":"在线之家[cat]","type":3,"api":"./js/猫在线之家.js"},
 
 {"key":"dj0898_book_open","name":"DJ网[cat]","type":3,"api":"./js/MyDJ0898.js","playerType":"2"},
@@ -85,8 +84,6 @@
 {"key":"drpy_js_lf_ikanbot","name":"影视 | lf_ikanbot[js]","type":3,"api":"./js/lf_ikanbot4_1_min.js"},
 
 {"key":"drpy_js_lf_p2p","name":"影视 | lf_p2p[js]","type":3,"api":"./js/lf_p2p1_min.js"},
-
-{"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/农民影视.js"},
 
 {"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2][js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/奈飞狗[V2].js"},
 
