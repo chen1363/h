@@ -33,23 +33,9 @@
       "ext": "./js/music.json",
       "jar": "./js/YSZYZ.jar"
     },
-      {
-      "key": "JustLive",
-      "name": "JustLive",
-      "type": 3,
-      "api": "csp_JustLive",
-      "searchable": 1,
-      "changeable": 0
-    },
-
-      {"key":"csp_XYQBiu_斗鱼","name":"斗鱼┃直播","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0},
-      {"key":"drpy_js_小纸条","name":"小纸条[js]","type":3,"api":"./js/小纸条.js",
-        "ext": "604c1db06ebe4a508aa616cf0912efd5"
-                    },
+      
       {"key":"点播","name":"电视 | 直播[js]","type":3,"api":"./js/live2vod.js","ext":"./js/feimaolive.json"},
-      {"key":"wogg_open","name":"玩偶[cat]","type":3,"api":"./js/wogg_open.js",
-   "ext": "16a80ec03bd248f1a3f91e7c660d0c6a"
-            }, 
+      
        {
                 "key": "我的哔哩",
                 "name": "我的哔哩",
@@ -66,7 +52,6 @@
                     "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
                 }
             },
-{"key":"dj0898_book_open","name":"DJ网[cat]","type":3,"api":"./js/MyDJ0898.js","playerType":"2"},
   {
       "key": "新6V",
       "name": "新6V",
@@ -76,46 +61,6 @@
       "changeable": 0
   },
 
-{"key":"drpy_js_ikanbot2","name":"聚搜 | 爱看机器人2[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/ikanbot2.js"},
-{"key":"drpy_js_ikanbot3","name":"聚搜 | 爱看机器人3[js]","type":3,"api":".js//lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
-{"key":"drpy_js_lf_ikanbot","name":"影视 | lf_ikanbot[js]","type":3,"api":"./js/lf_ikanbot4_1_min.js"},
-
-{"key":"drpy_js_lf_p2p","name":"影视 | lf_p2p[js]","type":3,"api":"./js/lf_p2p1_min.js"},
-
-{"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2][js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/奈飞狗[V2].js"},
-
-{"key":"drpy_js_奈飞中文","name":"影视 | 奈飞中文[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/奈飞中文.js"},
-
-{"key":"drpy_js_新视觉影视","name":"影视 | 新视觉影视[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/新视觉影视.js"},
-
-{"key":"drpy_js_DJ音乐","name":"音频 | DJ音乐[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/DJ音乐.js","playerType":"2"},
-{"key":"drpy_js_啦啦DJ","name":"音频 | 啦啦DJ[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/啦啦DJ.js","playerType":"2"},
-{"key":"drpy_js_清风DJ","name":"音频 | 清风DJ[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/清风DJ.js","playerType":"2"},
-
-{"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/蜻蜓FM.js","playerType":"2"},
-
-{"key":"drpy_js_喜马拉雅","name":"听书 | 喜马拉雅[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/喜马拉雅.js","playerType":"2"},
-
-{"key":"drpy_js_酷狗MV","name":"MV | 酷狗[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/酷狗MV.js"},
-
-{"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod"},
-{"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod"},
-{"key":"量子","name":"量子[fm]","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
-{"key":"非凡","name":"非凡[fm]","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
-{"key":"櫻花","name":"樱花[fm]","type":3,"api":"csp_Ying"},
-{"key":"巴士","name":"巴士[fm]","type":3,"api":"csp_Dm84"},
-   {
-  "key": "小纸条",
- "name": "🔍小纸条","type": 3,"api": "./js/xiaozhitiao_open.js",    "ext": "16a80ec03bd248f1a3f91e7c660d0c6a"  },
-{
-  "key": "阿里盘寻",
-    "name": "🔍 盘寻",
-  "type": 3,
-   "api": "./js/pansearch_open.js",
- "ext": "16a80ec03bd248f1a3f91e7c660d0c6a"},
-    {"key": "阿里盘搜","name": "🔍 盘搜","type": 3,
-"api": "./js/pansou_open.js","ext": "16a80ec03bd248f1a3f91e7c660d0c6a"
-   },
      {
  "key": "阿里七夜","name": "🔍 七夜","type": 3,"api": "./js/dovx_open.js","ext": "16a80ec03bd248f1a3f91e7c660d0c6a"
    }],
