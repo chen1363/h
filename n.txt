@@ -1,5 +1,5 @@
 央视,#genre#
-
+cctv1,https://tv.iill.top/migu/cctv1
 小品,#genre#
 yy小品,http://lunbo.freetv.top/yy/1354931503
 yy小品,video://https://www.yy.com/1354931503
