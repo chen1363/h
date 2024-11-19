@@ -18,7 +18,7 @@ yy小品,video://https://www.yy.com/1354931503
 周星驰,http://lunbo.freetv.top/yy/1354658049
 经典影视,http://lunbo.freetv.top/yy/1414974362
 周星驰,http://www.goodiptv.club/douyu/122402
-周星驰,video://https://www.douyu.com/122402?dyshid=0-ea63b1f223ca83b1b67f8c7900061701&dyshci=208
+周星驰,http://dns.yiandrive.com:16813/douyu/122402
 经典搞笑影片,http://lunbo.freetv.top/yy/1382749878
 经典大片,http://lunbo.freetv.top/yy/1382749895
 经典香港电影,https://tv.iill.top/migu/xgdy
