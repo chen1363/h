@@ -26,7 +26,13 @@
     
       
       {"key":"点播","name":"电视 | 直播[js]","type":3,"api":"./js/live2vod.js","ext":"./js/feimaolive.json"},
-      
+    
+         {   "key": "玩偶哥哥",
+                "name": "🎬️玩偶哥哥",
+                "type": 3,
+                "api": "wogg_open.js",
+                "ext": "598097c495bc4b258e981c4ade469ed6"
+            },
        {
                 "key": "我的哔哩",
                 "name": "我的哔哩",
