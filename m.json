@@ -30,7 +30,7 @@
          {   "key": "玩偶哥哥",
                 "name": "🎬️玩偶哥哥",
                 "type": 3,
-                "api": "wogg_open.js",
+                "api": "./js/wogg_open.js",
                 "ext": "598097c495bc4b258e981c4ade469ed6"
             },
        {
