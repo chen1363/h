@@ -25,7 +25,7 @@
     },
     
       
-      {"key":"点播","name":"电视 | 直播[js]","type":3,"api":"./js/live2vod.js","ext":"./feimaolive.json"},
+      {"key":"点播","name":"电视 | 直播[js]","type":3,"api":"./js/live2vod.js","ext":"./js/feimaolive.json"},
     
          {   "key": "玩偶哥哥",
                 "name": "🎬️玩偶哥哥",
