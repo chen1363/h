@@ -65,7 +65,7 @@ http://dns.yiandrive.com:16813/douyu/315457
 http://dns.yiandrive.com:16813/douyu/434971
 #EXTINF:-1,group-title="凤凰台",凤凰中文
 https://tv.iill.top/phenix/fhzw
-#EXTINF:-1,凤凰资讯
+#EXTINF:-1,group-title="凤凰台",凤凰资讯
 https://tv.iill.top/phenix/fhzx
 #EXTINF:-1,group-title="虎牙电影",黑莓电影
 http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
