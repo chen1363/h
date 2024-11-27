@@ -1,8 +1,5 @@
-央视,#genre#
 cctv1,https://tv.iill.top/migu/cctv1
-小品,#genre#
 yy小品,http://dns.yiandrive.com:16813/yy/1354931503
-yy小品,video://https://www.yy.com/1354931503
 开心麻花,http://www.goodiptv.club/douyu/10153463
 开心麻花,http://dns.yiandrive.com:16813/douyu/10153463
 宋小宝,http://www.goodiptv.club/douyu/9817729
@@ -11,9 +8,7 @@ yy小品,video://https://www.yy.com/1354931503
 贾玲斗鱼,http://www.goodiptv.club/douyu/10419541
 贾玲yy,http://dns.yiandrive.com:16813/yy/1382736720
 小品合集,http://dns.yiandrive.com:16813/yy/1354931503
-小品合集,video://https://www.yy.com/1354931503
 小品合集,http://dns.yiandrive.com:16813/yy/1354931503
-斗鱼电影🎬,#genre#
 成龙李连杰周星驰,http://www.goodiptv.club/douyu/8107217
 周星驰,http://dns.yiandrive.com:16813/yy/1354658049
 经典影视,http://dns.yiandrive.com:16813/yy/1414974362
@@ -35,15 +30,16 @@ yy小品,video://https://www.yy.com/1354931503
 华语经典,http://dns.yiandrive.com:16813/douyu/434971
 吃米滴虫,http://dns.yiandrive.com:16813/douyu/315457
 斗鱼影院,http://dns.yiandrive.com:16813/douyu/434971
-港澳台,#genre#
 凤凰中文,https://tv.iill.top/phenix/fhzw
 凤凰资讯,https://tv.iill.top/phenix/fhzx
-数字电影🎬,#genre#
 黑莓电影,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
-虎牙电影🎬,#genre#
 【周星星】星爷经典,http://dns.yiandrive.com:16813/hy/11342412
+杰克,http://dns.yiandrive.com:16813/huya/11602046
+憨豆先生,http://dns.yiandrive.com:16813/yy/1354936239
+高分电影,http://dns.yiandrive.com:16813/yy/1382736867
+宰相刘罗锅,http://dns.yiandrive.com:16813/douyu/8543072
 成龙经典,http://dns.yiandrive.com:16813/hy/11342386
 历年贺岁档,http://dns.yiandrive.com:16813/hy/11601986
 周润发电影,http://dns.yiandrive.com:16813/hy/11342387
@@ -54,5 +50,4 @@ CHC家庭影院,https://tv.iill.top/migu/jtyy
 007系列,http://dns.yiandrive.com:16813/hy/21059585
 洪金宝,http://dns.yiandrive.com:16813/hy/11279251
 笑傲江湖,http://dns.yiandrive.com:16813/hy/26355790.flv
-广播,#genre#
 华语金曲500首,http://ls.qingting.fm/live/3412131.m3u8
