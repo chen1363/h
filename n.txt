@@ -51,6 +51,7 @@ yy小品,http://dns.yiandrive.com:16813/yy/1354931503
 周润发电影,http://dns.yiandrive.com:16813/hy/11342387
 李连杰系列,http://dns.yiandrive.com:16813/hy/11342390
 新片放映厅,https://tv.iill.top/migu/xpdy
+三国演义,http://dns.yiandrive.com:16813/huya/11602081
 CHC家庭影院,https://tv.iill.top/migu/jtyy
 香港贺岁片,http://dns.yiandrive.com:16813/hy/11601971
 007系列,http://dns.yiandrive.com:16813/hy/21059585
