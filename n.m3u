@@ -26,15 +26,25 @@ http://www.goodiptv.club/douyu/8107217
 #EXTINF:-1, group-title="斗鱼电影",周星驰
 http://dns.yiandrive.com:16813/yy/1354658049
 #EXTINF:-1, group-title="斗鱼电影",经典影视
-http://dns.yiandrive.com:16813/yy/1414974362
+http://dns.yiandrive.com:16813/douyu/1414974362
 #EXTINF:-1, group-title="斗鱼电影",周星驰
 http://www.goodiptv.club/douyu/122402
 #EXTINF:-1, group-title="斗鱼电影",周星驰
 http://dns.yiandrive.com:16813/douyu/122402
 #EXTINF:-1, group-title="斗鱼电影",经典搞笑影片
-http://dns.yiandrive.com:16813/yy/1382749878
+http://dns.yiandrive.com:16813/douyu/1382749878
+#EXTINF:-1, group-title="斗鱼电影",喜剧电影
+http://dns.yiandrive.com:16813/douyu/276200
+#EXTINF:-1, group-title="斗鱼电影",欧美经典
+http://dns.yiandrive.com:16813/douyu/252802
+#EXTINF:-1, group-title="斗鱼电影",贝爷MAX厅
+http://dns.yiandrive.com:16813/douyu/4332
+#EXTINF:-1, group-title="斗鱼电影",三国演义
+http://www.goodiptv.club/douyu/7459925
+#EXTINF:-1, group-title="斗鱼电影",金庸武侠
+http://dns.yiandrive.com:16813/douyu/338759
 #EXTINF:-1, group-title="斗鱼电影",经典大片
-http://dns.yiandrive.com:16813/yy/1382749895
+http://dns.yiandrive.com:16813/douyu/1382749895
 #EXTINF:-1, group-title="斗鱼电影",经典香港电影
 https://tv.iill.top/migu/xgdy
 #EXTINF:-1, group-title="斗鱼电影",李连杰
@@ -64,17 +74,19 @@ http://dns.yiandrive.com:16813/douyu/315457
 #EXTINF:-1, group-title="斗鱼电影",斗鱼影院
 http://dns.yiandrive.com:16813/douyu/434971
 #EXTINF:-1, group-title="凤凰台",凤凰中文
-https://tv.iill.top/phenix/fhzw
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1, group-title="凤凰台",凤凰资讯
-https://tv.iill.top/phenix/fhzx
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1, group-title="数字电影",黑莓电影
-http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8#http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1, group-title="数字电影",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1, group-title="数字电影",黑莓电影
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 #EXTINF:-1, group-title="虎牙电影",【周星星】星爷经典
 http://dns.yiandrive.com:16813/hy/11342412
+#EXTINF:-1, group-title="虎牙电影", 天龙八部
+http://epg.112114.xyz/huya/23903123
 #EXTINF:-1, group-title="虎牙电影",三国演义,
 http://dns.yiandrive.com:16813/huya/11602081
 #EXTINF:-1, group-title="虎牙电影",杰克
@@ -104,6 +116,6 @@ http://dns.yiandrive.com:16813/hy/21059585
 #EXTINF:-1, group-title="虎牙电影",洪金宝
 http://dns.yiandrive.com:16813/hy/11279251
 #EXTINF:-1, group-title="虎牙电影",笑傲江湖
-http://dns.yiandrive.com:16813/hy/26355790
+http://epg.112114.xyz/hy/26355790
 #EXTINF:-1, group-title="广播",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
