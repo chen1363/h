@@ -2,7 +2,7 @@
 #EXTINF:-1, group-title="央视频道",CCTV1
 http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
 #EXTINF:-1, group-title="央视频道",CCTV1
-http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
+http://112.101.78.50:9901/tsfile/live/0001_1.m3u8#http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
 #EXTINF:-1, group-title="央视频道",CCTV2
 http://223.166.234.114:7777/tsfile/live/0002_1.m3u8
 #EXTINF:-1, group-title="央视频道",CCTV2
@@ -77,6 +77,10 @@ http://dns.yiandrive.com:16813/douyu/434971
 http://www.goodiptv.club/douyu/315457
 #EXTINF:-1, group-title="斗鱼电影",斗鱼影院
 http://dns.yiandrive.com:16813/douyu/434971
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="斗鱼电影",X战警电影
+http://jiaojirentv.top/2020/dy.php?id=9651304
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="斗鱼电影",欧美大片
+http://jiaojirentv.top/2020/dy.php?id=2793084
 #EXTINF:-1, group-title="凤凰台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$LR•IPV4
 #EXTINF:-1, group-title="凤凰台",凤凰资讯
@@ -89,6 +93,8 @@ http://1.192.75.145:9901/tsfile/live/1161_1.m3u8
 http://113.57.109.48:1111/tsfile/live/1044_1.m3u8
 #EXTINF:-1, group-title="数字电影",CHC动作电影
 http://113.57.109.48:1111/tsfile/live/1045_1.m3u8
+#EXTINF:-1, group-title="数字电影",CHC动作电影
+http://1.192.75.145:9901/tsfile/live/1162_1.m3u8
 #EXTINF:-1, group-title="虎牙电影",【周星星】星爷经典
 http://dns.yiandrive.com:16813/huya/11342412
 #EXTINF:-1, group-title="虎牙电影", 天龙八部
