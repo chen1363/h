@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, group-title="央视频道",CCTV1
-http://123.166.61.70:8003/hls/11/index.m3u8
+http://222.241.154.37:9901/tsfile/live/23001_1.m3u8/http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1, group-title="央视频道",CCTV2
 http://223.166.234.114:7777/tsfile/live/0002_1.m3u8
 #EXTINF:-1, group-title="央视频道",CCTV4
@@ -8,7 +8,7 @@ http://220.164.192.48:50085/tsfile/live/0005_1.m3u8
 #EXTINF:-1, group-title="央视频道",CCTV6
 http://112.101.78.50:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1, group-title="央视频道",CCTV13
-http://101.65.32.9:9901/tsfile/live/0013_1.m3u8
+http://112.101.78.50:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1, group-title="央视频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1, group-title="央视频道",河南都市
