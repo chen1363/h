@@ -1,6 +1,20 @@
 #EXTM3U
-#EXTINF:-1, group-title="央视频道",cctv1
-https://tv.iill.top/migu/cctv1
+#EXTINF:-1, group-title="央视频道",CCTV1
+http://123.166.61.70:8003/hls/11/index.m3u8
+#EXTINF:-1, group-title="央视频道",CCTV2
+http://223.166.234.114:7777/tsfile/live/0002_1.m3u8
+#EXTINF:-1, group-title="央视频道",CCTV4
+http://220.164.192.48:50085/tsfile/live/0005_1.m3u8
+#EXTINF:-1, group-title="央视频道",CCTV6
+http://112.101.78.50:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1, group-title="央视频道",CCTV13
+http://101.65.32.9:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1, group-title="央视频道",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1, group-title="央视频道",河南都市
+http://1.192.75.145:9901/tsfile/live/1054_1.m3u8
+#EXTINF:-1, group-title="央视频道",周口新闻综合
+http://117.159.72.12:8081/live/2216261506805201716.m3u8
 #EXTINF:-1, group-title="小品",yy小品
 http://dns.yiandrive.com:16813/yy/1354931503
 #EXTINF:-1, group-title="小品",开心麻花
@@ -75,8 +89,6 @@ http://epg.112114.xyz/huya/23903123
 http://dns.yiandrive.com:16813/huya/11602081
 #EXTINF:-1, group-title="虎牙电影",杰克
 http://dns.yiandrive.com:16813/huya/11602046
-#EXTINF:-1, group-title="虎牙电影",宰相刘罗锅
-http://dns.yiandrive.com:16813/douyu/8543072
 #EXTINF:-1, group-title="虎牙电影",成龙经典
 http://dns.yiandrive.com:16813/hy/11342386
 #EXTINF:-1, group-title="虎牙电影",历年贺岁档
@@ -99,11 +111,35 @@ http://dns.yiandrive.com:16813/hy/11279251
 http://epg.112114.xyz/hy/26355790
 #EXTINF:-1, group-title="YY电影",周星驰
 http://dns.yiandrive.com:16813/yy/1354658049
+#EXTINF:-1, group-title="YY电影",周星驰
+http://dns.yiandrive.com:16813/yy/38670875
+#EXTINF:-1, group-title="YY电影",YY电影
+http://dns.yiandrive.com:16813/yy/1354930926
+#EXTINF:-1, group-title="YY电影",铁齿铜牙纪晓岚
+http://dns.yiandrive.com:16813/yy/1354143978
+#EXTINF:-1, group-title="YY电影",铁齿铜牙纪晓岚
+http://dns.yiandrive.com:16813/yy/1382781415
+#EXTINF:-1, group-title="YY电影",女版电影
+http://dns.yiandrive.com:16813/yy/1461579859
+#EXTINF:-1, group-title="YY电影",天龙八部
+http://dns.yiandrive.com:16813/yy/1351814644
+#EXTINF:-1, group-title="YY电影",神雕侠侣
+http://dns.yiandrive.com:16813/yy/1382704651
+#EXTINF:-1, group-title="YY电影",经典影视
+http://dns.yiandrive.com:16813/yy/1414974362
+#EXTINF:-1, group-title="YY电影",搞笑经典电影
+http://dns.yiandrive.com:16813/yy/1351537467
+#EXTINF:-1, group-title="YY电影",经典大片合集
+http://dns.yiandrive.com:16813/yy/1382749895
+#EXTINF:-1, group-title="YY电影",港片 喜剧 动作
+http://dns.yiandrive.com:16813/yy/1355480591
 #EXTINF:-1, group-title="YY电影",刘罗锅
 http://dns.yiandrive.com:16813/yy/1382745191
 #EXTINF:-1, group-title="YY电影",憨豆先生
 http://dns.yiandrive.com:16813/yy/1354936239
 #EXTINF:-1, group-title="YY电影",高分电影
 http://dns.yiandrive.com:16813/yy/1382736867
+#EXTINF:-1, group-title="YY电影",少年包青天第一部
+http://111.67.193.2:35455/yy/1356043677
 #EXTINF:-1, group-title="广播",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
