@@ -4,7 +4,6 @@
 http://112.101.78.50:9901/tsfile/live/0001_1.m3u8#http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
 #EXTINF:-1, group-title="央视频道",CCTV2
 http://112.101.78.50:9901/tsfile/live/0002_1.m3u8#http://223.166.234.114:7777/tsfile/live/0002_1.m3u8
-
 #EXTINF:-1, group-title="央视频道",CCTV4
 http://112.101.78.50:9901/tsfile/live/0004_1.m3u8#http://220.164.192.48:50085/tsfile/live/0005_1.m3u8
 #EXTINF:-1, group-title="央视频道",CCTV6
@@ -42,15 +41,13 @@ http://www.goodiptv.club/douyu/8107217
 #EXTINF:-1, group-title="斗鱼电影",经典影视
 http://www.goodiptv.club/douyu/1414974362
 #EXTINF:-1, group-title="斗鱼电影",周星驰
-http://www.goodiptv.club/douyu/122402
-#EXTINF:-1, group-title="斗鱼电影",周星驰
-http://dns.yiandrive.com:16813/douyu/122402
+http://www.goodiptv.club/douyu/122402#http://dns.yiandrive.com:16813/douyu/122402
 #EXTINF:-1, group-title="斗鱼电影",经典搞笑影片
 http://www.goodiptv.club/douyu/1382749878
 #EXTINF:-1, group-title="斗鱼电影",喜剧电影
 http://www.goodiptv.club/douyu/276200
 #EXTINF:-1, group-title="斗鱼电影",欧美经典
-http://www.goodiptv.club/douyu/252802
+http://www.goodiptv.club/douyu/20415#http://dns.yiandrive.com:16813/douyu/20415#https://live.metshop.top/douyu/20415
 #EXTINF:-1, group-title="斗鱼电影",贝爷MAX厅
 http://www.goodiptv.club/douyu/4332
 #EXTINF:-1, group-title="斗鱼电影",三国演义
@@ -61,14 +58,12 @@ http://www.goodiptv.club/douyu/338759
 http://www.goodiptv.club/douyu/1382749895
 #EXTINF:-1, group-title="斗鱼电影",冰冰经典电影
 http://www.goodiptv.club/douyu/74374
+#EXTINF:-1, group-title="斗鱼电影",豆瓣
+http://www.goodiptv.club/douyu/8770422#http://dns.yiandrive.com:16813/douyu/8770422
 #EXTINF:-1, group-title="斗鱼电影",豆瓣高分
-http://www.goodiptv.club/douyu/8770422
-#EXTINF:-1, group-title="斗鱼电影",豆瓣高分
-http://dns.yiandrive.com:16813/douyu/8770422
+http://dns.yiandrive.com:16813/douyu/52787
 #EXTINF:-1, group-title="斗鱼电影",华语经典
-http://www.goodiptv.club/douyu/434971
-#EXTINF:-1, group-title="斗鱼电影",华语经典
-http://dns.yiandrive.com:16813/douyu/434971
+http://www.goodiptv.club/douyu/434971#http://dns.yiandrive.com:16813/douyu/434971
 #EXTINF:-1, group-title="斗鱼电影",吃米滴虫
 http://www.goodiptv.club/douyu/315457
 #EXTINF:-1, group-title="斗鱼电影",斗鱼影院
@@ -84,13 +79,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://dns.yiandrive.com:1681
 #EXTINF:-1, group-title="数字电影",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1, group-title="数字电影",CHC家庭影院
-http://1.192.75.145:9901/tsfile/live/1161_1.m3u8
-#EXTINF:-1, group-title="数字电影",CHC家庭影院
-http://113.57.109.48:1111/tsfile/live/1044_1.m3u8
+http://1.192.75.145:9901/tsfile/live/1161_1.m3u8#http://113.57.109.48:1111/tsfile/live/1044_1.m3u8
 #EXTINF:-1, group-title="数字电影",CHC动作电影
-http://113.57.109.48:1111/tsfile/live/1045_1.m3u8
-#EXTINF:-1, group-title="数字电影",CHC动作电影
-http://1.192.75.145:9901/tsfile/live/1162_1.m3u8
+http://113.57.109.48:1111/tsfile/live/1045_1.m3u8#http://1.192.75.145:9901/tsfile/live/1162_1.m3u8
 #EXTINF:-1, group-title="虎牙电影",【周星星】星爷经典
 http://dns.yiandrive.com:16813/huya/11342412
 #EXTINF:-1, group-title="虎牙电影", 天龙八部
@@ -116,15 +107,11 @@ http://dns.yiandrive.com:16813/huya/11279251
 #EXTINF:-1, group-title="虎牙电影",笑傲江湖
 http://dns.yiandrive.com:16813/huya/26355790
 #EXTINF:-1, group-title="YY电影",周星驰
-http://dns.yiandrive.com:16813/yy/1354658049
-#EXTINF:-1, group-title="YY电影",周星驰
-http://dns.yiandrive.com:16813/yy/38670875
+http://dns.yiandrive.com:16813/yy/1354658049#http://dns.yiandrive.com:16813/yy/38670875
 #EXTINF:-1, group-title="YY电影",YY电影
 http://dns.yiandrive.com:16813/yy/1354930926
 #EXTINF:-1, group-title="YY电影",铁齿铜牙纪晓岚
-http://dns.yiandrive.com:16813/yy/1354143978
-#EXTINF:-1, group-title="YY电影",铁齿铜牙纪晓岚
-http://dns.yiandrive.com:16813/yy/1382781415
+http://dns.yiandrive.com:16813/yy/1354143978#http://dns.yiandrive.com:16813/yy/1382781415
 #EXTINF:-1, group-title="YY电影",女版电影
 http://dns.yiandrive.com:16813/yy/1461579859
 #EXTINF:-1, group-title="YY电影",天龙八部
@@ -147,5 +134,5 @@ http://dns.yiandrive.com:16813/yy/1354936239
 http://dns.yiandrive.com:16813/yy/1382736867
 #EXTINF:-1, group-title="YY电影",少年包青天第一部
 http://dns.yiandrive.com:16813/yy/1356043677
-#EXTINF:-1, group-title="广播",华语金曲500首
+#EXTINF:-1, group-title="广播",华语金曲
 https://ngcdn004.cnr.cn/live/dszs/index.m3u8
