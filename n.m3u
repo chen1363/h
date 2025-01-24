@@ -16,6 +16,24 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://1.192.75.145:9901/tsfile/live/1054_1.m3u8
 #EXTINF:-1, group-title="央视频道",周口新闻综合
 http://117.159.72.12:8081/live/2216261506805201716.m3u8
+郸城新闻,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+郸城新闻,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
+CCTV1,http://222.85.81.15:6060/PLTV1/40/index.m3u8?icpid=dxrm1&servicetype=1
+cctv3,http://222.85.81.15:6060/PLTV1/80/index.m3u8?icpid=dxrm1&servicetype=1
+cctv6,http://222.85.81.15:6060/PLTV1/140/index.m3u8?icpid=dxrm1&servicetype=1
+梨园频道,http://222.85.81.15:6060/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=1
+电视剧频道,http://222.85.81.15:6060/PLTV1/660/index.m3u8?icpid=dxrm1&servicetype=1
+CCTV2,http://222.85.81.15:6060/PLTV1/60/index.m3u8?icpid=dxrm1&servicetype=1
+CCTV13,http://222.85.81.15:6060/PLTV1/280/index.m3u8?icpid=dxrm1&servicetype=1
+cctv13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+河南卫视,http://222.85.81.15:6060/PLTV1/580/index.m3u8?icpid=dxrm1&servicetype=1
+cctv4,http://222.85.81.15:6060/PLTV1/100/index.m3u8?icpid=dxrm1&servicetype=1
+移动戏曲,http://222.85.81.15:6060/PLTV1/800/index.m3u8?icpid=dxrm1&servicetype=1
+都市频道,http://222.85.81.15:6060/PLTV1/600/index.m3u8?icpid=dxrm1&servicetype=1
+江苏卫视,http://222.85.81.15:6060/PLTV1/1000/index.m3u8?icpid=dxrm1&servicetype=1
+东南卫视,http://222.85.81.15:6060/PLTV1/1400/index.m3u8?icpid=dxrm1&servicetype=1
+浙江卫视,http://222.85.81.15:6060/PLTV1/960/index.m3u8?icpid=dxrm1&servicetype=1
+东方卫视,http://222.85.81.15:6060/PLTV1/980/index.m3u8?icpid=dxrm1&servicetype=1
 #EXTINF:-1, group-title="小品",yy小品
 http://dns.yiandrive.com:16813/yy/1354931503
 #EXTINF:-1, group-title="小品",开心麻花
