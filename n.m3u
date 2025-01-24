@@ -12,10 +12,6 @@ http://112.101.78.50:9901/tsfile/live/0006_1.m3u8#http://148.135.93.213:81/live.
 http://112.101.78.50:9901/tsfile/live/0013_1.m3u8#http://148.135.93.213:81/live.php?id=CCTV13
 #EXTINF:-1, group-title="央视频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1, group-title="央视频道",河南都市
-http://1.192.75.145:9901/tsfile/live/1054_1.m3u8
-#EXTINF:-1, group-title="央视频道",周口新闻综合
-http://117.159.72.12:8081/live/2216261506805201716.m3u8
 #EXTINF:-1, group-title="央视频道",郸城新闻
 http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
 #EXTINF:-1, group-title="央视频道",郸城新闻
