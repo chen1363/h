@@ -3,7 +3,7 @@
 "wallpaper": 
   "./tu/7.jpg",
         "lives": [
-{ "name":"lives","url":"./n.txt","boot":false,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}" ,"logo":"https://epg.112114.xyz/logo/{name}.png"}],
+{ "name":"lives","url":"./tv.txt","boot":false,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}" ,"logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
   "sites": [
      {
