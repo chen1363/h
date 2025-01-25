@@ -48,19 +48,8 @@
                     "categories": "音乐#小品相声#DJ舞曲#帕梅拉#综艺#国创#搞笑#单机游戏#动画#电影",
                     "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
                 }
-            },
-  {
-      "key": "新6V",
-      "name": "新6V",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 0
-  },
 
-     {
- "key": "阿里七夜","name": "🔍 七夜","type": 3,"api": "./js/dovx_open.js","ext": "598097c495bc4b258e981c4ade469ed6"
-   }]
+   ]
 
 
   
