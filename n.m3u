@@ -16,36 +16,6 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
 #EXTINF:-1, group-title="央视频道",郸城新闻
 http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-#EXTINF:-1, group-title="电信IP",cctv-1
-http://222.85.81.15:6060/PLTV1/40/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",cctv-2
-http://222.85.81.15:6060/PLTV1/60/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",cctv-3
-http://222.85.81.15:6060/PLTV1/80/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",cctv-4
-http://222.85.81.15:6060/PLTV1/100/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",cctv-6
-http://222.85.81.15:6060/PLTV1/140/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",cctv-13
-http://222.85.81.15:6060/PLTV1/280/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",梨园频道DX
-http://222.85.81.15:6060/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",电视剧频道DX
-http://222.85.81.15:6060/PLTV1/660/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",河南卫视DX
-http://222.85.81.15:6060/PLTV1/580/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",移动戏曲DX
-http://222.85.81.15:6060/PLTV1/800/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",都市频道DX
-http://222.85.81.15:6060/PLTV1/600/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",江苏卫视DX
-http://222.85.81.15:6060/PLTV1/1000/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",东南卫视DX
-http://222.85.81.15:6060/PLTV1/1400/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",浙江卫视DX
-http://222.85.81.15:6060/PLTV1/960/index.m3u8?icpid=dxrm1&servicetype=1
-#EXTINF:-1, group-title="电信IP",东方卫视DX
-http://222.85.81.15:6060/PLTV1/980/index.m3u8?icpid=dxrm1&servicetype=1
 #EXTINF:-1, group-title="小品",yy小品
 http://dns.yiandrive.com:16813/yy/1354931503
 #EXTINF:-1, group-title="小品",开心麻花
